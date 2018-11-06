@@ -6,10 +6,10 @@ This layout was made using the [Microsoft Keyboard Layout Creator](https://www.m
 
 ## Installation
 1. Clone or download the repository (the green button in the upper right).
-1.5. If you downloaded as a .zip, unzip the folder.
-2. Run setup.exe in the build folder.
-3. Restart your computer.
-4. Activate the keyboard layout as you would any other (through language settings or keyboard settings depending on your OS. Google is your friend!)
+2. If you downloaded as a .zip, unzip the folder.
+3. Run setup.exe in the build folder.
+4. Restart your computer.
+5. Activate the keyboard layout as you would any other (through language settings or keyboard settings depending on your OS. Google is your friend!)
 
 ## Layout
 All the special characters are accessed using the right Alt key (aka AltGr). You can sub Ctrl+Alt for AltGr if you don't have a right alt key. Based on the US keyboard layout:
