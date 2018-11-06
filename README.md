@@ -35,8 +35,9 @@ There are two other keys to note:
 
 *I realize yogh isn't in OE, but it's useful to have quick access to for ME
 ### Visualized
-
+Lowercase
 ![altgr](https://github.com/lizfischer/Old-English-Keyboard/blob/master/img/altgr.png)
+Uppercase
 ![shift+altgr](https://github.com/lizfischer/Old-English-Keyboard/blob/master/img/shiftaltgr.png)
 
 ## Tips
