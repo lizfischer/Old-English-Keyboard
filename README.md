@@ -29,9 +29,9 @@ All the special characters are accessed using the right Alt key (aka AltGr). You
 |Ȝ|capital yogh*|  AltGr+Shift+Y
 |ȝ|lowercase yogh|  AltGr+Y
 
-There are two other keys to make note of:
+There are two other keys to note:
 * The grave key (\`/~) can be used to put macrons over vowels: ǣ ā ē ī ō ū ȳ (and capitals: Ǣ, etc). Press the grave key first, then type the vowel.
-* The apostrophe key can be used to put dots over ġ and ċ 
+* The apostrophe key can be used to put dots over ġ and ċ in the same way.
 
 *I realize yogh isn't in OE, but it's useful to have quick access to for ME
 ### Visualized
