@@ -26,7 +26,7 @@ All the special characters are accessed using the right Alt key (aka AltGr). You
 |ƿ|lowercase wynn|  AltGr+W
 |ſ|long s|  AltGr+S
 |⁊|Tironian et|  AltGr+7
-|Ȝ|capital yogh|  AltGr+Shift+Y
+|Ȝ|capital yogh (not really in OE, but useful anyway)|  AltGr+Shift+Y
 |ȝ|lowercase yogh|  AltGr+Y
 
 Finally, the grave key (\`/~) can be used to put macrons over vowels: ǣ ā ē ī ō ū ȳ (and capitals: Ǣ, etc). Press the grave key first, then type the vowel.
