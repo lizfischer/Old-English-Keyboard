@@ -26,11 +26,14 @@ All the special characters are accessed using the right Alt key (aka AltGr). You
 |ƿ|lowercase wynn|  AltGr+W
 |ſ|long s|  AltGr+S
 |⁊|Tironian et|  AltGr+7
-|Ȝ|capital yogh (not really in OE, but useful anyway)|  AltGr+Shift+Y
+|Ȝ|capital yogh*|  AltGr+Shift+Y
 |ȝ|lowercase yogh|  AltGr+Y
 
-Finally, the grave key (\`/~) can be used to put macrons over vowels: ǣ ā ē ī ō ū ȳ (and capitals: Ǣ, etc). Press the grave key first, then type the vowel.
+There are two other keys to make note of:
+* The grave key (\`/~) can be used to put macrons over vowels: ǣ ā ē ī ō ū ȳ (and capitals: Ǣ, etc). Press the grave key first, then type the vowel.
+* The apostrophe key can be used to put dots over ġ and ċ 
 
+*I realize yogh isn't in OE, but it's useful to have quick access to for ME
 ### Visualized
 
 ![altgr](https://github.com/lizfischer/Old-English-Keyboard/blob/master/img/altgr.png)
